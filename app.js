@@ -1,24 +1,24 @@
-// CHAPTER 14-16
+// CHAPTER ........14-16.........
 
-// Q1
+// 1
 // var studentName = [];
 
-// // Q2
+// // 2
 // var studentName = {};
 
-// // Q3
+// // 3
 // var studentName = ["Ahmed", "Saim", "Zaid","Saad"]
 
-// Q4
+// 4
 // var studentName = [7, 10, 22,77]
 
-// Q5
+// 5
 // var studentName = [true, false]
 
-// Q6
+// 6
 // var studentName = ["Ahmed",true,7,"Saim",47,false,"Zaid",86,"Saad"]
 
-// Q7
+// 7
 // var QualificationsInPakistan = [ "SSC", "HSC", "BCS","BS", "BCOM", "MS", "M", "Phil", "PhD"]
 
 // document.write("<h1>" + "Qualifications:" + "</h1><br>" )
@@ -32,7 +32,7 @@
 // document.write(QualificationsInPakistan[7] + "<br>" )
 // document.write(QualificationsInPakistan[8])
 
-// Q8
+// 8
 // var studentNames = [prompt("Student 1 Name?"), prompt("Student 2 Name?"), prompt("Student 3 Name?")]
 // var studentScores = [prompt("Student 1 Score?"), prompt("Student 2 Score?"), prompt("Student 3 Score?")]
 
@@ -45,7 +45,7 @@
 // document.write("Score of " + studentNames[1] + " is " + studentScores[1] + " Percentage: " + persentage2 + "%<br>")
 // document.write("Score of " + studentNames[2] + " is " + studentScores[2] + " Percentage: " + persentage3 + "%")
 
-// Q9
+// 9
 
 // var colors = [" Red ", " Green", " Blue"];
 // // A
@@ -89,7 +89,7 @@
 // colors.splice(ColorIndexDelete,ColorDelete)
 // document.write("<b>G</b> " + colors + "<br>")
 
-// Q10
+// 10
 // var studentScores = [320, 230, 480, 120];
 
 // document.write("<b>Score of Student: </b>" + studentScores + "<br>")
@@ -105,12 +105,12 @@
 // document.write("<b>Cities list:</b><br>" + cities + "<br><br>");
 // document.write("<b>Selected cities list:</b><br> " + selectcities);
 
-// Q12
+// 12
 // var arr = ["This " ,  " is" ,  " my" ,  " cat"]
 
 // document.write(arr[0], arr[1], arr[2], arr[3])
 
-// Q15
+// 15
 // var phoneManufacturers = ["Apple", "Samsung", "Motorola", "Nokia", "Sony", "Haier"];
 
 // document.write("<select>");
